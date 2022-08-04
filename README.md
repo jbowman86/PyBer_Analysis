@@ -27,7 +27,8 @@ INSERT JNG OF FIRSTV OUTPUT
 
 From the summary DataFrame, the data was pivoted into a new DataFrame, and then grouped by weeks to show the total fares by city type.  The resulting line graph measuring the changes in ride fares over the first months of 2019 among urban, suburban, and rural cities in shown below:
 
-INSERT JNG OF LINE GRAPH
+![
+](https://github.com/jbowman86/PyBer_Analysis/blob/main/Resources/PyBer_fare-summary.png)
 
 1. All three city types start to rise to a peak at the end for February.  The urban city type experiencing oscillating peaks until April, while the other city types wane in the month of March.
 
