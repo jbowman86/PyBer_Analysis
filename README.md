@@ -15,7 +15,7 @@ Jupyter Notebook, pandas and matplotlib libraries were collectively used to comp
 After merging two datasets and using the groupby() functions, the fare per ride and fare per driver averages were calculated resulting in the summary DataFrame by city type. 
 
 ![
-](https://github.com/jbowman86/PyBer_Analysis/blob/main/Resources/PyBer_summary_rides.png)
+](https://github.com/jbowman86/PyBer_Analysis/blob/main/Analysis/PyBer_summary_rides.png)
 
 1. There are 13 times more rides in urban cities compare to rural cities (1,625 vs 125 rides).
 
