@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The goal of this analysis was to provide ride-sharing data visualizations for PyBer in order to promote access to ride-sharing services and determine affordability for underprivileged neighborhoods.  For this study, two datasets containing ride sharing information were utilized.  The ride datasets included details on the location of rides, date of each ride and the fare paid.  The city dataset described the type of city (rural, urban, and suburban) and the number of drivers servicing each area.
+The goal of this analysis was to provide ride-sharing data visualizations for PyBer in order to promote access to ride-sharing services and determine affordability for underprivileged neighborhoods.  For this study, two datasets containing ride sharing information were utilized.  The ride dataset included details on the location of rides, date of each ride and the fare paid.  The city dataset described the type of city (rural, urban, and suburban) and the number of drivers servicing each area.
 
 The overall goal of the analysis was to compare the quantity and fares paid for rides in each city type.  The end results were the creation of clear visualizations with matplotlib library.  Ultimately, the PyBer CEO will be provided with recommendations for addressing any disparities among city types.
 
