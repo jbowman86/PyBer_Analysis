@@ -12,17 +12,18 @@ Jupyter Notebook, pandas and matplotlib libraries were collectively used to comp
 
 ### Analysis of Ride-Sharing by City Type
 
-
 After merging two datasets and using the groupby() functions, the fare per ride and fare per driver averages were calculated resulting in the summary DataFrame by city type. 
 
 ![
 ](https://github.com/jbowman86/PyBer_Analysis/blob/main/Resources/PyBer_summary_rides.png)
 
-1. The urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver.  The urban drivers had the lowest average fare per ride and earned significantly less than rural drivers. 
+1. There are 13 times more rides in urban cities compare to rural cities (1,625 vs 125 rides).
 
-2. Rural cities had the least number of total drivers.  Conversely, these rides had the highest average fare per driver even though the ratio of total rides to total drivers is equivalent to the suburban city type.  
+2. The urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver.  The urban drivers had the lowest average fare per ride and earned significantly less than rural drivers. The average fare per ride is 1.4 times less and average fare per driver is 3.4 times less in urban cities compare to rural cities ($24.53 vs $34.62 and $16.57 vs $55.49).
+3. 
+4. Rural cities had the least number of total drivers.  Conversely, these rides had the highest average fare per driver even though the ratio of total rides to total drivers is equivalent to the suburban city type.  
 
-3. Urban rides contributed the most total fares for PyBer.  The amount of revenue generated from urban rides ($39,854.38) is greater than the combined revenue from suburban and rural rides.
+4. Urban rides contributed the most total fares for PyBer.  The amount of revenue generated from urban rides ($39,854.38) is greater than the combined revenue from suburban and rural rides.  The total fares in urban cities is 9 times higher than in rural cities and 2 times higher than suburban cities.
 
 ### Analysis of Total Fares for Each City Type
 
