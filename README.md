@@ -50,6 +50,6 @@ In order to reduce the disparity between urban, suburban and rural cities, the f
 
 2.	It appears that rural cities are underserved.  Further focus on rural cities can potentially be lucrative as margins for rural rides are very high.  It may be necessary to perform a more focused market study to confirm if there is enough demand in this market segment to justify hiring more drivers.  A similar strategy could be used the suburban areas as well.
 
-3.	Regarding urban cities, despite the lower margins, the turnover and dynamism is high. It is also the most important part of PyBer’s business. It is suggested that PyBer maintain its current strategy especially in April and end of February in which prices are higher. A shift could be considered towards rural and suburban areas if it is justified by further research.
+3.	Regarding urban cities, despite the lower margins, the turnover and dynamism is high.  It is also the most important part of PyBer’s business due to this city type contributing the highest revenue for the company.  It is suggested that PyBer maintain its current strategy especially in April and end of February in which prices are higher.  A shift could be considered towards rural and suburban areas if it is justified by further research.
 
 
