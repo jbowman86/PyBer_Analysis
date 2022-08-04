@@ -15,7 +15,8 @@ Jupyter Notebook, pandas and matplotlib libraries were collectively used to comp
 
 After merging two datasets and using the groupby() functions, the fare per ride and fare per driver averages were calculated resulting in the summary DataFrame by city type. 
 
-INSERT JNG OF FIRSTV OUTPUT 
+![
+](https://github.com/jbowman86/PyBer_Analysis/blob/main/Resources/PyBer_summary_rides.png)
 
 1. The urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver.  The urban drivers had the lowest average fare per ride and earned significantly less than rural drivers. 
 
